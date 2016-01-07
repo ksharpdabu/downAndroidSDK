@@ -5,6 +5,7 @@ from xml.etree import cElementTree as ET
 
 #author  AlexY
 #blog   www.dabu.info
+#python版本 ： 3.x
 #提取android sdk资源，方便使用迅雷等工具加速下载
 
 split_tag_url = ' |-->downloadUrl :  '
