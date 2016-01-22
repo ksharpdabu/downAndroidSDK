@@ -323,7 +323,7 @@ http://dl.google.com/android/repository/build-tools_r23.0.2-windows.zip
 
 ================tools=====================
 http://dl.google.com/android/repository/tools_r24.4.1-windows.zip
-http://dl.google.com/android/repository/tools_r25.0.2-windows.zip
+http://dl.google.com/android/repository/tools_r25.0.3-windows.zip
 
 
 ================doc=====================
@@ -343,10 +343,10 @@ http://dl.google.com/android/repository/sources-22_r01.zip
 http://dl.google.com/android/repository/sources-23_r01.zip
 
 
-repository   end 
+repository   end
 
 
-add-on  start 
+add-on  start
 ================add-on=====================
 
 
@@ -413,4 +413,5 @@ https://dl.google.com/android/repository/haxm-windows_r6_0_1.zip
 
 
 Intel x86 Emulator Accelerator (HAXM installer)    end
+
 
