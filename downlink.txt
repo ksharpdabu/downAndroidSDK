@@ -323,7 +323,7 @@ http://dl.google.com/android/repository/build-tools_r23.0.2-windows.zip
 
 ================tools=====================
 http://dl.google.com/android/repository/tools_r24.4.1-windows.zip
-http://dl.google.com/android/repository/tools_r25.0.4-windows.zip
+http://dl.google.com/android/repository/tools_r25.0.6-windows.zip
 
 
 ================doc=====================
