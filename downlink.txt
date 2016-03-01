@@ -323,7 +323,7 @@ http://dl.google.com/android/repository/build-tools_r23.0.2-windows.zip
 
 ================tools=====================
 http://dl.google.com/android/repository/tools_r24.4.1-windows.zip
-http://dl.google.com/android/repository/tools_r25.0.6-windows.zip
+http://dl.google.com/android/repository/tools_r25.0.7-windows.zip
 
 
 ================doc=====================
@@ -377,8 +377,8 @@ https://dl.google.com/android/repository/google_apis-23_r01.zip
 ================extra=====================
 
 
-https://dl.google.com/android/repository/support_r23.1.1.zip
-https://dl.google.com/android/repository/android_m2repository_r25.zip
+https://dl.google.com/android/repository/support_r23.2.zip
+https://dl.google.com/android/repository/android_m2repository_r26.zip
 https://dl.google.com/android/repository/extras/gapid/gapid_r01_osx.zip
 https://dl.google.com/android/repository/extras/gapid/gapid_r01_windows.zip
 https://dl.google.com/android/repository/extras/gapid/gapid_r01_linux.zip
@@ -414,4 +414,4 @@ https://dl.google.com/android/repository/haxm-windows_r6_0_1.zip
 
 Intel x86 Emulator Accelerator (HAXM installer)    end
 
-Process finished with exit code 0
+
