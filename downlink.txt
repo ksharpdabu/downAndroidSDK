@@ -97,6 +97,14 @@ system-image    start
  |-->Android SDK Platform :  Android SDK Platform 6.0
  |-->api level :  23
  |-->downloadUrl :  http://dl.google.com/android/repository/sys-img/android/sysimg_arm-23_r03.zip
+ |-->revision :  1
+ |-->Android SDK Platform :  Android SDK Platform N
+ |-->api level :  23
+ |-->downloadUrl :  http://dl.google.com/android/repository/sys-img/android/sysimg_x86_64-N_r01.zip
+ |-->revision :  1
+ |-->Android SDK Platform :  Android SDK Platform N
+ |-->api level :  23
+ |-->downloadUrl :  http://dl.google.com/android/repository/sys-img/android/sysimg_x86-N_r01.zip
 
 
 system-image    end
@@ -237,64 +245,69 @@ repository   start
  |-->Android SDK Platform :  Android SDK Platform 6.0
  |-->api level :  23
  |-->downloadUrl :  http://dl.google.com/android/repository/android-23_r02.zip
+ |-->revision :  1
+ |-->Android SDK Platform :  Android SDK Platform N
+ |-->api level :  23
+ |-->downloadUrl :  http://dl.google.com/android/repository/platform-N_r01.zip
 
 
 ================sample=====================
  |-->revision :  01
  |-->api level :  23
- |-->downloadUrl :  http://dl.google.com/android/repository/android-23_r02.zip
+ |-->downloadUrl :  http://dl.google.com/android/repository/platform-N_r01.zip
  |-->revision :  01
  |-->api level :  23
- |-->downloadUrl :  http://dl.google.com/android/repository/android-23_r02.zip
+ |-->downloadUrl :  http://dl.google.com/android/repository/platform-N_r01.zip
  |-->revision :  01
  |-->api level :  23
- |-->downloadUrl :  http://dl.google.com/android/repository/android-23_r02.zip
+ |-->downloadUrl :  http://dl.google.com/android/repository/platform-N_r01.zip
  |-->revision :  01
  |-->api level :  23
- |-->downloadUrl :  http://dl.google.com/android/repository/android-23_r02.zip
+ |-->downloadUrl :  http://dl.google.com/android/repository/platform-N_r01.zip
  |-->revision :  01
  |-->api level :  23
- |-->downloadUrl :  http://dl.google.com/android/repository/android-23_r02.zip
+ |-->downloadUrl :  http://dl.google.com/android/repository/platform-N_r01.zip
  |-->revision :  01
  |-->api level :  23
- |-->downloadUrl :  http://dl.google.com/android/repository/android-23_r02.zip
+ |-->downloadUrl :  http://dl.google.com/android/repository/platform-N_r01.zip
  |-->revision :  01
  |-->api level :  23
- |-->downloadUrl :  http://dl.google.com/android/repository/android-23_r02.zip
+ |-->downloadUrl :  http://dl.google.com/android/repository/platform-N_r01.zip
  |-->revision :  2
  |-->api level :  23
- |-->downloadUrl :  http://dl.google.com/android/repository/android-23_r02.zip
+ |-->downloadUrl :  http://dl.google.com/android/repository/platform-N_r01.zip
  |-->revision :  2
  |-->api level :  23
- |-->downloadUrl :  http://dl.google.com/android/repository/android-23_r02.zip
+ |-->downloadUrl :  http://dl.google.com/android/repository/platform-N_r01.zip
  |-->revision :  1
  |-->api level :  23
- |-->downloadUrl :  http://dl.google.com/android/repository/android-23_r02.zip
+ |-->downloadUrl :  http://dl.google.com/android/repository/platform-N_r01.zip
  |-->revision :  1
  |-->api level :  23
- |-->downloadUrl :  http://dl.google.com/android/repository/android-23_r02.zip
+ |-->downloadUrl :  http://dl.google.com/android/repository/platform-N_r01.zip
  |-->revision :  1
  |-->api level :  23
- |-->downloadUrl :  http://dl.google.com/android/repository/android-23_r02.zip
+ |-->downloadUrl :  http://dl.google.com/android/repository/platform-N_r01.zip
  |-->revision :  6
  |-->api level :  23
- |-->downloadUrl :  http://dl.google.com/android/repository/android-23_r02.zip
+ |-->downloadUrl :  http://dl.google.com/android/repository/platform-N_r01.zip
  |-->revision :  3
  |-->api level :  23
- |-->downloadUrl :  http://dl.google.com/android/repository/android-23_r02.zip
+ |-->downloadUrl :  http://dl.google.com/android/repository/platform-N_r01.zip
  |-->revision :  4
  |-->api level :  23
- |-->downloadUrl :  http://dl.google.com/android/repository/android-23_r02.zip
+ |-->downloadUrl :  http://dl.google.com/android/repository/platform-N_r01.zip
  |-->revision :  6
  |-->api level :  23
- |-->downloadUrl :  http://dl.google.com/android/repository/android-23_r02.zip
+ |-->downloadUrl :  http://dl.google.com/android/repository/platform-N_r01.zip
  |-->revision :  2
  |-->api level :  23
- |-->downloadUrl :  http://dl.google.com/android/repository/android-23_r02.zip
+ |-->downloadUrl :  http://dl.google.com/android/repository/platform-N_r01.zip
 
 
 ================platform-tool=====================
 http://dl.google.com/android/repository/platform-tools_r23.1.0-windows.zip
+http://dl.google.com/android/repository/platform-tools_r24.0.0-windows_rc1.zip
 
 
 ================build-tool=====================
@@ -319,11 +332,12 @@ http://dl.google.com/android/repository/build-tools_r22.0.1-windows.zip
 http://dl.google.com/android/repository/build-tools_r23-windows.zip
 http://dl.google.com/android/repository/build-tools_r23.0.1-windows.zip
 http://dl.google.com/android/repository/build-tools_r23.0.2-windows.zip
+http://dl.google.com/android/repository/build-tools_r24.0.0-windows_rc1.zip
 
 
 ================tools=====================
 http://dl.google.com/android/repository/tools_r24.4.1-windows.zip
-http://dl.google.com/android/repository/tools_r25.0.7-windows.zip
+http://dl.google.com/android/repository/tools_r25.0.9-windows.zip
 
 
 ================doc=====================
@@ -378,7 +392,7 @@ https://dl.google.com/android/repository/google_apis-23_r01.zip
 
 
 https://dl.google.com/android/repository/support_r23.2.zip
-https://dl.google.com/android/repository/android_m2repository_r26.zip
+https://dl.google.com/android/repository/android_m2repository_r27.zip
 https://dl.google.com/android/repository/extras/gapid/gapid_r01_osx.zip
 https://dl.google.com/android/repository/extras/gapid/gapid_r01_windows.zip
 https://dl.google.com/android/repository/extras/gapid/gapid_r01_linux.zip
@@ -414,4 +428,4 @@ https://dl.google.com/android/repository/haxm-windows_r6_0_1.zip
 
 Intel x86 Emulator Accelerator (HAXM installer)    end
 
-
+Process finished with exit code 0
