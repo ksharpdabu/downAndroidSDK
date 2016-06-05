@@ -69,14 +69,6 @@ system-image    start
  |-->Android SDK Platform :  ARM EABI v7a System Image
  |-->api level :  23
  |-->downloadUrl :  http://dl.google.com/android/repository/sys-img/android/sysimg_arm-23_r03.zip
- |-->revision :  2
- |-->Android SDK Platform :  Intel x86 Atom System Image
- |-->api level :  23
- |-->downloadUrl :  http://dl.google.com/android/repository/sys-img/android/sysimg_x86-N_r02.zip
- |-->revision :  2
- |-->Android SDK Platform :  Intel x86 Atom_64 System Image
- |-->api level :  23
- |-->downloadUrl :  http://dl.google.com/android/repository/sys-img/android/sysimg_x86_64-N_r02.zip
  |-->revision :  9
  |-->Android SDK Platform :  Intel x86 Atom System Image
  |-->api level :  23
@@ -95,16 +87,24 @@ system-image    start
  |-->downloadUrl :  http://dl.google.com/android/repository/sys-img/android/sysimg_x86_64-22_r05.zip
  |-->revision :  4
  |-->Android SDK Platform :  Intel x86 Atom System Image
- |-->api level :  19
- |-->downloadUrl :  http://dl.google.com/android/repository/sys-img/android/sysimg_x86-19_r04.zip
- |-->revision :  4
- |-->Android SDK Platform :  Intel x86 Atom System Image
  |-->api level :  21
  |-->downloadUrl :  http://dl.google.com/android/repository/sys-img/android/sysimg_x86-21_r04.zip
  |-->revision :  4
  |-->Android SDK Platform :  Intel x86 Atom_64 System Image
  |-->api level :  21
  |-->downloadUrl :  http://dl.google.com/android/repository/sys-img/android/sysimg_x86_64-21_r04.zip
+ |-->revision :  3
+ |-->Android SDK Platform :  Intel x86 Atom System Image
+ |-->api level :  23
+ |-->downloadUrl :  http://dl.google.com/android/repository/sys-img/android/sysimg_x86-N_r03.zip
+ |-->revision :  3
+ |-->Android SDK Platform :  Intel x86 Atom_64 System Image
+ |-->api level :  23
+ |-->downloadUrl :  http://dl.google.com/android/repository/sys-img/android/sysimg_x86_64-N_r03.zip
+ |-->revision :  5
+ |-->Android SDK Platform :  Intel x86 Atom System Image
+ |-->api level :  19
+ |-->downloadUrl :  http://dl.google.com/android/repository/sys-img/android/sysimg_x86-19_r05.zip
 
 
 system-image    end
@@ -116,46 +116,50 @@ system-image    end
 
 
 ================ system-image=====================
- |-->revision :  1
- |-->Android SDK Platform :  Google APIs ARM EABI v7a System Image
- |-->api level :  22
- |-->downloadUrl :  https://dl.google.com/android/repository/sys-img/google_apis/sysimg_arm-22_r01.zip
- |-->revision :  7
- |-->Android SDK Platform :  Google APIs ARM EABI v7a System Image
- |-->api level :  23
- |-->downloadUrl :  https://dl.google.com/android/repository/sys-img/google_apis/sysimg_arm-23_r07.zip
- |-->revision :  10
- |-->Android SDK Platform :  Google APIs ARM EABI v7a System Image
- |-->api level :  21
- |-->downloadUrl :  https://dl.google.com/android/repository/sys-img/google_apis/sysimg_arm-21_r10.zip
- |-->revision :  13
- |-->Android SDK Platform :  Google APIs Intel x86 Atom System Image
- |-->api level :  23
- |-->downloadUrl :  https://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86-23_r13.zip
- |-->revision :  13
- |-->Android SDK Platform :  Google APIs Intel x86 Atom_64 System Image
- |-->api level :  23
- |-->downloadUrl :  https://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86_64-23_r13.zip
- |-->revision :  5
- |-->Android SDK Platform :  Google APIs Intel x86 Atom System Image
- |-->api level :  22
- |-->downloadUrl :  https://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86-22_r05.zip
- |-->revision :  5
- |-->Android SDK Platform :  Google APIs Intel x86 Atom_64 System Image
- |-->api level :  22
- |-->downloadUrl :  https://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86_64-22_r05.zip
- |-->revision :  19
+ |-->revision :  20
  |-->Android SDK Platform :  Google APIs Intel x86 Atom System Image
  |-->api level :  19
- |-->downloadUrl :  https://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86-19_r19.zip
- |-->revision :  11
- |-->Android SDK Platform :  Google APIs Intel x86 Atom System Image
- |-->api level :  21
- |-->downloadUrl :  https://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86-21_r11.zip
- |-->revision :  11
+ |-->downloadUrl :  https://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86-19_r20.zip
+ |-->revision :  12
  |-->Android SDK Platform :  Google APIs Intel x86 Atom_64 System Image
  |-->api level :  21
- |-->downloadUrl :  https://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86_64-21_r11.zip
+ |-->downloadUrl :  https://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86_64-21_r12.zip
+ |-->revision :  12
+ |-->Android SDK Platform :  Google APIs ARM EABI v7a System Image
+ |-->api level :  21
+ |-->downloadUrl :  https://dl.google.com/android/repository/sys-img/google_apis/sysimg_armeabi-v7a-21_r12.zip
+ |-->revision :  6
+ |-->Android SDK Platform :  Google APIs ARM EABI v7a System Image
+ |-->api level :  22
+ |-->downloadUrl :  https://dl.google.com/android/repository/sys-img/google_apis/sysimg_armeabi-v7a-22_r06.zip
+ |-->revision :  6
+ |-->Android SDK Platform :  Google APIs Intel x86 Atom_64 System Image
+ |-->api level :  22
+ |-->downloadUrl :  https://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86_64-22_r06.zip
+ |-->revision :  14
+ |-->Android SDK Platform :  Google APIs Intel x86 Atom System Image
+ |-->api level :  23
+ |-->downloadUrl :  https://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86-23_r14.zip
+ |-->revision :  14
+ |-->Android SDK Platform :  Google APIs Intel x86 Atom_64 System Image
+ |-->api level :  23
+ |-->downloadUrl :  https://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86_64-23_r14.zip
+ |-->revision :  14
+ |-->Android SDK Platform :  Google APIs ARM EABI v7a System Image
+ |-->api level :  23
+ |-->downloadUrl :  https://dl.google.com/android/repository/sys-img/google_apis/sysimg_armeabi-v7a-23_r14.zip
+ |-->revision :  7
+ |-->Android SDK Platform :  Google APIs Intel x86 Atom System Image
+ |-->api level :  22
+ |-->downloadUrl :  https://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86-22_r07.zip
+ |-->revision :  13
+ |-->Android SDK Platform :  Google APIs Intel x86 Atom System Image
+ |-->api level :  21
+ |-->downloadUrl :  https://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86-21_r13.zip
+ |-->revision :  21
+ |-->Android SDK Platform :  Google APIs ARM EABI v7a System Image
+ |-->api level :  19
+ |-->downloadUrl :  https://dl.google.com/android/repository/sys-img/google_apis/sysimg_armeabi-v7a-19_r21.zip
 
 
    Google Apis   system-image    end
@@ -163,7 +167,6 @@ system-image    end
 
 
 
-https://dl.google.com/android/repository/sys-img/x86/google_apis_x86-19_r18.zip
 
 
 
@@ -202,13 +205,34 @@ repository   start
  |-->Android SDK Platform :  Android SDK Platform 6
  |-->api level :  6
  |-->downloadUrl :  http://dl.google.com/android/repository/android-2.0.1_r01-windows.zip
-
-
-
-
-
-
-
+ |-->revision :  3
+ |-->Android SDK Platform :  Android SDK Platform 7
+ |-->api level :  7
+ |-->downloadUrl :  http://dl.google.com/android/repository/android-2.1_r03.zip
+ |-->revision :  3
+ |-->Android SDK Platform :  Android SDK Platform 8
+ |-->api level :  8
+ |-->downloadUrl :  http://dl.google.com/android/repository/android-2.2_r03.zip
+ |-->revision :  2
+ |-->Android SDK Platform :  Android SDK Platform 9
+ |-->api level :  9
+ |-->downloadUrl :  http://dl.google.com/android/repository/android-2.3.1_r02.zip
+ |-->revision :  2
+ |-->Android SDK Platform :  Android SDK Platform 10
+ |-->api level :  10
+ |-->downloadUrl :  http://dl.google.com/android/repository/android-2.3.3_r02.zip
+ |-->revision :  2
+ |-->Android SDK Platform :  Android SDK Platform 11
+ |-->api level :  11
+ |-->downloadUrl :  http://dl.google.com/android/repository/android-3.0_r02.zip
+ |-->revision :  3
+ |-->Android SDK Platform :  Android SDK Platform 12
+ |-->api level :  12
+ |-->downloadUrl :  http://dl.google.com/android/repository/android-3.1_r03.zip
+ |-->revision :  1
+ |-->Android SDK Platform :  Android SDK Platform 13
+ |-->api level :  13
+ |-->downloadUrl :  http://dl.google.com/android/repository/android-3.2_r01.zip
  |-->revision :  4
  |-->Android SDK Platform :  Android SDK Platform 14
  |-->api level :  14
@@ -249,10 +273,10 @@ repository   start
  |-->Android SDK Platform :  Android SDK Platform 23
  |-->api level :  23
  |-->downloadUrl :  http://dl.google.com/android/repository/platform-23_r03.zip
- |-->revision :  2
+ |-->revision :  3
  |-->Android SDK Platform :  Android SDK Platform N
  |-->api level :  23
- |-->downloadUrl :  http://dl.google.com/android/repository/platform-N_r02.zip
+ |-->downloadUrl :  http://dl.google.com/android/repository/platform-N_r03.zip
 
 
 ================sample=====================
@@ -260,7 +284,7 @@ repository   start
 
 ================platform-tool=====================
 http://dl.google.com/android/repository/platform-tools_r23.1.0-windows.zip
-http://dl.google.com/android/repository/platform-tools_r24rc2-windows_rc2.zip
+http://dl.google.com/android/repository/platform-tools_r24-rc3-windows.zip
 
 
 ================build-tool=====================
@@ -285,13 +309,12 @@ http://dl.google.com/android/repository/build-tools_r22.0.1-windows.zip
 http://dl.google.com/android/repository/build-tools_r23-windows.zip
 http://dl.google.com/android/repository/build-tools_r23.0.1-windows.zip
 http://dl.google.com/android/repository/build-tools_r23.0.2-windows.zip
-http://dl.google.com/android/repository/build-tools_r24.0.0-windows_rc1.zip
 http://dl.google.com/android/repository/build-tools_r23.0.3-windows.zip
-http://dl.google.com/android/repository/build-tools_r24rc3-windows_rc3.zip
+http://dl.google.com/android/repository/build-tools_r24-rc4-windows.zip
 
 
 ================tools=====================
-http://dl.google.com/android/repository/tools_r25.1.6-windows.zip
+http://dl.google.com/android/repository/tools_r25.1.7-windows.zip
 
 
 ================doc=====================
@@ -318,6 +341,7 @@ add-on  start
 ================add-on=====================
 
 
+https://dl.google.com/android/repository/google_apis-19_r20.zip
 https://dl.google.com/android/repository/google_apis-3-r03.zip
 https://dl.google.com/android/repository/google_apis-5_r01.zip
 https://dl.google.com/android/repository/google_apis-4_r02.zip
@@ -339,12 +363,13 @@ https://dl.google.com/android/repository/google_apis-18_r04.zip
 https://dl.google.com/android/repository/google_apis-15_r03.zip
 https://dl.google.com/android/repository/google_apis-16_r04.zip
 https://dl.google.com/android/repository/google_apis-23_r01.zip
-https://dl.google.com/android/repository/google_apis-19_r18.zip
 
 
 ================extra=====================
 
 
+https://dl.google.com/android/repository/android_m2repository_r31.zip
+https://dl.google.com/android/repository/android_m2repository_r32.zip
 https://dl.google.com/android/repository/webdriver_r02.zip
 https://dl.google.com/android/repository/market_licensing-r02.zip
 https://dl.google.com/android/repository/gcm_r03.zip
@@ -361,11 +386,9 @@ https://dl.google.com/android/repository/desktop-head-unit-windows_r01.1.zip
 https://dl.google.com/android/repository/gapid_r01_linux.zip
 https://dl.google.com/android/repository/gapid_r01_osx.zip
 https://dl.google.com/android/repository/gapid_r01_windows.zip
-https://dl.google.com/android/repository/google_play_services_8487000_r29.zip
 https://dl.google.com/android/repository/support_r23.2.1.zip
-https://dl.google.com/android/repository/google_m2repository_r25.zip
-https://dl.google.com/android/repository/android_m2repository_r30.zip
-https://dl.google.com/android/repository/android_m2repository_r31.zip
+https://dl.google.com/android/repository/google_play_services_9080000_r30.zip
+https://dl.google.com/android/repository/google_m2repository_r28.zip
 add-on end
 
 
@@ -383,4 +406,4 @@ https://dl.google.com/android/repository/haxm-windows_r6_0_1.zip
 
 Intel x86 Emulator Accelerator (HAXM installer)    end
 
-Process finished with exit code 0
+
