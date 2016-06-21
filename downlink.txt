@@ -93,18 +93,18 @@ system-image    start
  |-->Android SDK Platform :  Intel x86 Atom_64 System Image
  |-->api level :  21
  |-->downloadUrl :  http://dl.google.com/android/repository/sys-img/android/sysimg_x86_64-21_r04.zip
- |-->revision :  3
- |-->Android SDK Platform :  Intel x86 Atom System Image
- |-->api level :  23
- |-->downloadUrl :  http://dl.google.com/android/repository/sys-img/android/sysimg_x86-N_r03.zip
- |-->revision :  3
- |-->Android SDK Platform :  Intel x86 Atom_64 System Image
- |-->api level :  23
- |-->downloadUrl :  http://dl.google.com/android/repository/sys-img/android/sysimg_x86_64-N_r03.zip
  |-->revision :  5
  |-->Android SDK Platform :  Intel x86 Atom System Image
  |-->api level :  19
  |-->downloadUrl :  http://dl.google.com/android/repository/sys-img/android/sysimg_x86-19_r05.zip
+ |-->revision :  4
+ |-->Android SDK Platform :  Intel x86 Atom System Image
+ |-->api level :  24
+ |-->downloadUrl :  http://dl.google.com/android/repository/sys-img/android/sysimg_x86-24_r04.zip
+ |-->revision :  4
+ |-->Android SDK Platform :  Intel x86 Atom_64 System Image
+ |-->api level :  24
+ |-->downloadUrl :  http://dl.google.com/android/repository/sys-img/android/sysimg_x86_64-24_r04.zip
 
 
 system-image    end
@@ -273,18 +273,17 @@ repository   start
  |-->Android SDK Platform :  Android SDK Platform 23
  |-->api level :  23
  |-->downloadUrl :  http://dl.google.com/android/repository/platform-23_r03.zip
- |-->revision :  3
- |-->Android SDK Platform :  Android SDK Platform N
- |-->api level :  23
- |-->downloadUrl :  http://dl.google.com/android/repository/platform-N_r03.zip
+ |-->revision :  1
+ |-->Android SDK Platform :  Android SDK Platform 24
+ |-->api level :  24
+ |-->downloadUrl :  http://dl.google.com/android/repository/platform-24_r01.zip
 
 
 ================sample=====================
 
 
 ================platform-tool=====================
-http://dl.google.com/android/repository/platform-tools_r23.1.0-windows.zip
-http://dl.google.com/android/repository/platform-tools_r24-rc3-windows.zip
+http://dl.google.com/android/repository/platform-tools_r24-windows.zip
 
 
 ================build-tool=====================
@@ -310,7 +309,7 @@ http://dl.google.com/android/repository/build-tools_r23-windows.zip
 http://dl.google.com/android/repository/build-tools_r23.0.1-windows.zip
 http://dl.google.com/android/repository/build-tools_r23.0.2-windows.zip
 http://dl.google.com/android/repository/build-tools_r23.0.3-windows.zip
-http://dl.google.com/android/repository/build-tools_r24-rc4-windows.zip
+http://dl.google.com/android/repository/build-tools_r24-windows.zip
 
 
 ================tools=====================
@@ -368,8 +367,10 @@ https://dl.google.com/android/repository/google_apis-23_r01.zip
 ================extra=====================
 
 
-https://dl.google.com/android/repository/android_m2repository_r31.zip
-https://dl.google.com/android/repository/android_m2repository_r32.zip
+https://dl.google.com/android/repository/android_m2repository_r33.zip
+https://dl.google.com/android/repository/gapid_2980123_linux.zip
+https://dl.google.com/android/repository/gapid_2980123_osx.zip
+https://dl.google.com/android/repository/gapid_2980123_windows.zip
 https://dl.google.com/android/repository/webdriver_r02.zip
 https://dl.google.com/android/repository/market_licensing-r02.zip
 https://dl.google.com/android/repository/gcm_r03.zip
@@ -405,4 +406,5 @@ https://dl.google.com/android/repository/haxm-windows_r6_0_1.zip
 
 
 Intel x86 Emulator Accelerator (HAXM installer)    end
+
 
